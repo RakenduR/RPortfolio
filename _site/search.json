@@ -10,11 +10,11 @@
     },
     {
       "path": "index.html",
-      "title": "Portfolio",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Rakendu Ramesh",
+      "description": "All things Data !\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-18T17:51:31+08:00"
+      "contents": "\r\nData Scientist passionate about solving real word business problems\r\nusing data, with focus on understanding the problem, having knowledge of\r\nthe various techniques that can be applied, narrowing down on the most\r\neffective solutions and finally picking the best solution with the\r\nknowledge that the complex solutions need not be the best solution.\r\nData Scientist\r\n\r\n\r\n",
+      "last_modified": "2022-07-20T13:23:40+08:00"
     }
   ],
   "collections": []

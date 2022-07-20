@@ -1,7 +1,7 @@
 ---
-title: "Portfolio"
+title: "Rakendu Ramesh"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  All things Data !
 site: distill::distill_website
 ---
 
@@ -13,3 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+
+Data Scientist passionate about solving real word business problems using data, with focus on understanding the problem, having knowledge of the various techniques that can be applied, narrowing down on the most effective solutions and finally picking the best solution with the knowledge that the complex solutions need not be the best solution.
+
+![Data Scientist](image/datascientist.jpg)
