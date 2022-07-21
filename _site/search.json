@@ -1,20 +1,12 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
-      "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-21T10:47:08+08:00"
-    },
-    {
       "path": "index.html",
       "title": "Rakendu Ramesh",
       "description": "All things Data !\n",
       "author": [],
-      "contents": "\r\n\r\nContents\r\nPORTFOLIO\r\nARTICLES\r\nEXPERIENCE\r\n\r\nABOUT\r\nData Scientist passionate about solving real word business problems\r\nusing data, with focus on understanding the problem, having knowledge of\r\nthe various techniques that can be applied, narrowing down on the most\r\neffective solutions and finally picking the best solution with the\r\nknowledge that the complex solutions need not be the best solution.\r\nData ScientistThe goals of this course are:\r\nPORTFOLIO\r\nThe goals of this course are:\r\nARTICLES\r\nThe goals of this course are:\r\nEXPERIENCE\r\nThe goals of this course are:\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-21T09:56:07+08:00"
+      "contents": "\r\n\r\nContents\r\nPORTFOLIO\r\nARTICLES\r\nEXPERIENCE\r\n\r\nABOUT\r\nData Scientist passionate about solving real word business problems\r\nusing data, with focus on understanding the problem, having knowledge of\r\nthe various techniques that can be applied, narrowing down on the most\r\neffective solutions and finally picking the best solution with the\r\nknowledge that the complex solutions need not be the best solution.\r\n\r\n\r\n\r\n\r\n\r\n\r\nPORTFOLIO\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\nARTICLES\r\nThe goals of this course are:\r\nEXPERIENCE\r\nThe goals of this course are:\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-21T15:33:18+08:00"
     }
   ],
   "collections": []
