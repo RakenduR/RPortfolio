@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-21T10:47:08+08:00"
+    },
+    {
       "path": "index.html",
       "title": "Rakendu Ramesh",
       "description": "All things Data !\n",
