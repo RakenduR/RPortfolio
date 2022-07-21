@@ -12,8 +12,25 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
-
+#### ABOUT
 
 Data Scientist passionate about solving real word business problems using data, with focus on understanding the problem, having knowledge of the various techniques that can be applied, narrowing down on the most effective solutions and finally picking the best solution with the knowledge that the complex solutions need not be the best solution.
 
 ![Data Scientist](image/datascientist.jpg)
+
+
+
+
+The goals of this course are:
+
+### PORTFOLIO
+
+The goals of this course are:
+
+### ARTICLES
+
+The goals of this course are:
+
+### EXPERIENCE
+
+The goals of this course are:

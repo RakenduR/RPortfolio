@@ -1,14 +1,18 @@
 name: "RPortfolio"
-title: "Portfolio"
+title: "World of Data"
+theme: theme.css
 description: |
   Portfolio
 output_dir: "_site"
 navbar:
   right:
-    - text: "Home"
+    - icon: fa fa-home
       href: index.html
     - text: "Blog"
       href: https://rakendu-blog.netlify.app/
     - text: "About"
       href: about.html
-output: distill::distill_article
+output: 
+  distill::distill_article:
+      toc: true
+      toc_float: true
