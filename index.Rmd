@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Data Scientist passionate about solving real word business problems using data, with focus on understanding the problem, having knowledge of the various techniques that can be applied, narrowing down on the most effective solutions and finally picking the best solution with the knowledge that the complex solutions need not be the best solution.
 
-![](image/datascientist.jpg)
+![](image/datascientist.jpg){width=50%}
 
 
 <a class="social-icon" href="https://www.linkedin.com/in/rakendu-ramesh/"><i class="fab fa-linkedin-in"></i></a>
@@ -24,6 +24,7 @@ Data Scientist passionate about solving real word business problems using data, 
 <a class="social-icon" href="https://stackoverflow.com/users/16270975/rakendu"><i class="fab fa-stack-overflow"></i></a>
 <a class="social-icon" href="https://community.rstudio.com/u/RakenduR/summary"><i class="fab fa-r-project"></i></a>
 <a class="social-icon" href="https://public.tableau.com/app/profile/rakendu5820"><img class="circular_image" src = "image/tableau.jpg"/></a>
+<a class="social-icon" href="https://community.jmp.com/t5/user/viewprofilepage/user-id/31669"><img class="circular_image" src = "image/jmp.jpg"/></a>
 
 ### PORTFOLIO
 

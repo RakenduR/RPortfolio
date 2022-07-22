@@ -1,12 +1,20 @@
 {
   "articles": [
     {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-22T13:39:20+08:00"
+    },
+    {
       "path": "index.html",
       "title": "Rakendu Ramesh",
       "description": "All things Data !\n",
       "author": [],
-      "contents": "\r\n\r\nContents\r\nPORTFOLIO\r\nEXPERIENCE\r\nEDUCATION\r\nSKILLS\r\nINTERESTS\r\n\r\nABOUT\r\nData Scientist passionate about solving real word business problems\r\nusing data, with focus on understanding the problem, having knowledge of\r\nthe various techniques that can be applied, narrowing down on the most\r\neffective solutions and finally picking the best solution with the\r\nknowledge that the complex solutions need not be the best solution.\r\n\r\n\r\n\r\n\r\n\r\n\r\nPORTFOLIO\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\nEXPERIENCE\r\ntext text\r\nEDUCATION\r\ntext text\r\nSKILLS\r\ntext text\r\nINTERESTS\r\ntext text\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-21T15:36:35+08:00"
+      "contents": "\r\nABOUT\r\nData Scientist passionate about solving real word business problems\r\nusing data, with focus on understanding the problem, having knowledge of\r\nthe various techniques that can be applied, narrowing down on the most\r\neffective solutions and finally picking the best solution with the\r\nknowledge that the complex solutions need not be the best solution.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPORTFOLIO\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\nEXPERIENCE\r\ntext text\r\nEDUCATION\r\ntext text\r\nSKILLS\r\ntext text\r\nINTERESTS\r\ntext text\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-22T13:37:37+08:00"
     }
   ],
   "collections": []
