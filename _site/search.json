@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "All about me",
+      "description": "\"A person who never made a mistake never tried anything new\" -Albert Einstein",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-24T12:07:41+08:00"
+      "contents": "\r\n\r\nProfessional\r\nI am enthusiastic professional who believes in continuous learning\r\nand upskilling and that is why I am currently pursuing a Master’s\r\nCourse in Data Science at Singapore Management University, slated to\r\ngraduate in Nov, 2022. I have 10 years of experience in IT industry as\r\nQuality Analyst, Business Analyst and Software Developer in various\r\ndomains during which i discovered my passion for data.In the past year,\r\ni thoroughly enjoyed going back to student life and now I am excited to\r\nstep back into the corporate world again, armed with a slew of new\r\nskills in the field of data analytics, data visualization and data\r\nscience.\r\nPersonal\r\nI live in Singapore with my family. In the late evenings, you will\r\nsee me out for a run around the lovely reservoir near my place and on\r\nweekends, out trekking and exploring different places in the little red\r\ndot. My favorite so far are Bukit Timah Nature Reserve, Southern Ridges\r\nand MacRitchie reservoir. I enjoy trying out different cuisines but i\r\nfall back on Thai, Korean and Indian, owing to my love for spicy food.\r\nBut on a rainy day, hot and flavorful hainanese chicken rice it is.\r\nContact\r\nrakendu.ramesh@gmail.com\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-24T13:04:40+08:00"
     },
     {
       "path": "education.html",
@@ -31,8 +31,8 @@
       "title": "Rakendu Ramesh",
       "description": "All things Data !\n",
       "author": [],
-      "contents": "\r\nABOUT\r\nData Scientist passionate about solving real word business problems\r\nusing data, with focus on understanding the problem, having knowledge of\r\nthe various techniques that can be applied, narrowing down on the most\r\neffective solutions and finally picking the best solution with the\r\nknowledge that the complex solutions need not be the best solution.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPORTFOLIO\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\n\r\n\r\nSample Dashboard Placeholder: This is a dashboard to\r\nvisualise classification of subzones in singapore based on something\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-24T12:11:02+08:00"
+      "contents": "\r\nABOUT\r\nData Scientist passionate about solving real word business problems\r\nusing data, with focus on understanding the problem, having knowledge of\r\nthe various techniques that can be applied, narrowing down on the most\r\neffective solutions and finally picking the best solution with the\r\nknowledge that the complex solutions need not be the best solution.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-24T13:05:01+08:00"
     },
     {
       "path": "skills.html",

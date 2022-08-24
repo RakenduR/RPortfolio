@@ -1,11 +1,22 @@
 ---
-title: "About this site"
+title: "All about me"
 theme: theme.css
 description: |
-  Some additional details about the website
+  "A person who never made a mistake never tried anything new" -Albert Einstein
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](image/rakendu_circle.jpg){width=15%} 
+
+### Professional
+
+I am enthusiastic professional who believes in continuous learning and upskilling and that is why I am currently pursuing a [Master's Course in Data Science](https://scis.smu.edu.sg/master-it-business/analytics-track/curriculum) at Singapore Management University, slated to graduate in Nov, 2022. I have 10 years of experience in IT industry as Quality Analyst, Business Analyst and Software Developer in various domains during which i discovered my passion for data.In the past year, i thoroughly enjoyed going back to student life and now I am excited to step back into the corporate world again, armed with a slew of new skills in the field of data analytics, data visualization and data science.
+
+### Personal
+I live in Singapore with my family. In the late evenings, you will see me out for a run around the lovely reservoir near my place and on weekends, out trekking and exploring different places in the little red dot. My favorite so far are Bukit Timah Nature Reserve, Southern Ridges and MacRitchie reservoir. I enjoy trying out different cuisines but i fall back on Thai, Korean and Indian, owing to my love for spicy food. But on a rainy day, hot and flavorful hainanese chicken rice it is.
+
+### Contact
+[rakendu.ramesh@gmail.com](mailto:rakendu.ramesh@gmail.com)

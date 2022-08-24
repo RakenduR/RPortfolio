@@ -26,30 +26,30 @@ Data Scientist passionate about solving real word business problems using data, 
 <a class="social-icon" href="https://public.tableau.com/app/profile/rakendu5820"><img class="circular_image" src = "image/tableau.jpg"/></a>
 <a class="social-icon" href="https://community.jmp.com/t5/user/viewprofilepage/user-id/31669"><img class="circular_image" src = "image/jmp.jpg"/></a>
 
-### PORTFOLIO
+<!-- ### PORTFOLIO -->
 
-<table>
-  <tr>
-    <td width=30%>
-    [![](image/rdashboard1.png){width=100%}](https://isss608vaproject.shinyapps.io/Choropleth/)
-    
-    **Sample Dashboard Placeholder:** This is a dashboard to visualise classification of subzones in singapore based on something
+<!-- <table> -->
+<!--   <tr> -->
+<!--     <td width=30%> -->
+<!--     [![](image/rdashboard1.png){width=100%}](https://isss608vaproject.shinyapps.io/Choropleth/) -->
 
-    </td>
-    <td  width=30%>
-    [![](image/rdashboard1.png){width=100%}](https://isss608vaproject.shinyapps.io/Choropleth/)
-    
-    **Sample Dashboard Placeholder:** This is a dashboard to visualise classification of subzones in singapore based on something
-    
-    </td>
-    <td width=30%>
-    [![](image/rdashboard1.png){width=100%}](https://isss608vaproject.shinyapps.io/Choropleth/)
-    
-    **Sample Dashboard Placeholder:** This is a dashboard to visualise classification of subzones in singapore based on something
-    
-    </td>
-  </tr>
-</table>
+<!--     **Sample Dashboard Placeholder:** This is a dashboard to visualise classification of subzones in singapore based on something -->
+
+<!--     </td> -->
+<!--     <td  width=30%> -->
+<!--     [![](image/rdashboard1.png){width=100%}](https://isss608vaproject.shinyapps.io/Choropleth/) -->
+
+<!--     **Sample Dashboard Placeholder:** This is a dashboard to visualise classification of subzones in singapore based on something -->
+
+<!--     </td> -->
+<!--     <td width=30%> -->
+<!--     [![](image/rdashboard1.png){width=100%}](https://isss608vaproject.shinyapps.io/Choropleth/) -->
+
+<!--     **Sample Dashboard Placeholder:** This is a dashboard to visualise classification of subzones in singapore based on something -->
+
+<!--     </td> -->
+<!--   </tr> -->
+<!-- </table> -->
 
 
 
