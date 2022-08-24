@@ -6,8 +6,6 @@ description: |
 output_dir: "_site"
 navbar:
   right:
-    - text: "Portfolio"
-      href: portfolio.html
     - text: "Experience"
       href: experience.html
     - text: "Education"

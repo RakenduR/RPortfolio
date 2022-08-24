@@ -1,0 +1,165 @@
+---
+title: "Experience"
+description: |
+  “The only source of knowledge is experience” - Albert Einstein
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+<table>
+  <tr>
+    <td width = 6>
+      ### Data Analyst Intern
+    </td>
+    <td width = 6 style="text-align:right">
+      Jan 2022 - Jun 2022
+    </td>
+  </tr>
+  <tr>
+    <td width = 12>
+<b> DHL, Singapore</b>
+
+<i>Global Logistics Company</i>
+    
+* Developed PowerBi Dashboard for HR Team to visualize the Vaccination status of Employees using Python and MS SQL.
+    
+* Appreciated by Team Lead for the contribution to Resource Management Application developed for Finance and Operation Teams, using ASP.net and MS SQL. Successfully solved the security concerns raised during Penetration Testing and secured Security Sign off.
+    
+* Enhancement of PD Digitalization Dashboard to eliminate manual intervention.
+    
+* Involved in the Deployment of Web Chat Analytics Tool and Call Data Extraction from Avaya for Speech Analytics tool.
+
+    </td>
+  </tr>
+  <tr>
+    <td width = 6>
+      ### QA Coordinator
+    </td>
+    <td width = 6 style="text-align:right">
+      Jul 2018 – Dec 2020
+    </td>
+  </tr>
+  <tr>
+    <td width = 12>
+<b> Expleo Solutions, Singapore</b>
+
+<i>IT services and consulting company, deployed to AVIVA Insurance</i>
+
+* Reviewed and delivered multiple reports for Financial Consultants
+* Collaborated with Business Users, Development Team and Support Teams to execute project deliverables within stipulated timelines.
+* Proposed and implemented process changes to eliminate defects right from requirement analysis stage.
+* Demonstrated and convinced the Business to the advantage of automating data verification and convinced the Business users to adopt the latest technology.
+
+    </td>
+  </tr>
+  <tr>
+    <td width = 6>
+      ### QA Team Lead
+    </td>
+    <td width = 6 style="text-align:right">
+      Aug 2013 - Jul 2018
+    </td>
+  </tr>
+  <tr>
+    <td width = 12>
+<b>Vervali Systems, Mumbai, India</b>
+
+<i>IT Services Company for Neogov, USA</i>
+
+* Managed a Team of 8 spread across different time zones
+* Estimated and planned testing activities to align with the Project plan
+* Defined and documented strategy to ensure quality standards
+* Verified major overhaul of Application and ensured minimal defects in Production
+* Handled the verification of data migration and gained commendation for successful completion of project
+* Identified and highlighted risk factors, effectively mitigating project delays
+
+
+    </td>
+  </tr>
+    <tr>
+    <td width = 6>
+      ### Assistant Business Analyst 
+    </td>
+    <td width = 6 style="text-align:right">
+      Jul 2009 - Jul 2010
+    </td>
+  </tr>
+  <tr>
+    <td width = 12>
+<b> Integro Technologies, Singapore</b>
+
+<i>IT services and consulting company, deployed to OCBC</i>
+
+
+* Handled Requirement Gathering through Discussions with Business Users and Documentation
+
+* Collaborated with Business Users and Development Team to identify and resolve Production issues
+
+* Conducted User trainings to ensure efficient use of the system
+
+* Verified and successfully delivered application that met user expectations
+
+* Collaborated with Quality and Business Team to ensure timely delivery of application
+    </td>
+  </tr>
+ <tr>
+    <td width = 6>
+      ### Test Engineer 
+    </td>
+    <td width = 6 style="text-align:right">
+     Nov 2008 - Jul 2009
+    </td>
+  </tr>
+    <tr>
+    <td width = 12>
+<b> Encora Technologies, Singapore</b>
+
+<i>IT services and consulting company, deployed to UOB</i>
+
+
+*	Verification of transaction logs in XML format on Unix server Developed and executed testcases that helped isolate defects in the application
+
+*	Prepared Defect Status Report to highlight the progress of the project to the stakeholders
+
+* Conducted User trainings to ensure efficient use of the system
+
+
+    </td>
+  </tr>
+    <tr>
+    <td width = 6>
+      ### Software Developer 
+    </td>
+    <td width = 6 style="text-align:right">
+      Jan 2006 - Dec 2007
+    </td>
+  </tr>
+    <tr>
+    <td width = 12>
+<b> UST Global, India</b>
+
+<i>IT services and consulting company for Anthem Insurance, USA</i>
+
+
+* Handled Requirement Gathering through Discussions with Business Users and Documentation
+
+* Collaborated with Business Users and Development Team to identify and resolve Production issues
+
+* Conducted User trainings to ensure efficient use of the system
+
+* Verified and successfully delivered application that met user expectations
+
+* Collaborated with Quality and Business Team to ensure timely delivery of application
+
+
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+---
+title: "Education"
+description: |
+  “Education is what remains after one has forgotten what one has learned in school.” - Albert Einstein
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+### Master of IT in Business - Analytics Track
+<b>Singapore Management University (Aug 2021 - Nov 2022) </b>
+
+<u>Main Modules</u>
+
+* Applied Machine Learning
+* Data Science for Business
+* Visual Analytics using Tableau
+* Text Analytics
+* Python Programming and Data Analysis
+* Applied Statistical Analysis with R
+* Data Analytics Lab using Jmp Pro 16
+* Data Management
+* Internet of Things
+
+
+### Bachelor of Technology - Electronics and Communication Engineering
+<b>SCMS School of Engg and Tech, Mahatma Gandhi University (Sept 2001 - Jun 2005)</b>
+
+<u>Main Modules</u>
+
+* Electronics Engineering
+* Electromagnetic Waves
+* Digital Signal Processing
+* Control Systems
+* Electrical Engineering
+* C++
+* RDBMS
+* Television Engineering
+
+
+
+
+
+
