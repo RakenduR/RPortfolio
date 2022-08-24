@@ -27,19 +27,29 @@ library(fontawesome)
 `r fa("cloud", fill = "steelblue")` <b>AWS S3, EC2</b>
     </td>
     <td width = 6>
-![Tableau](image/tableau.jpg){width=2%} <b>Tableau</b>
+`r fa("github", fill = "steelblue")` <b>Git</b>
+
+![Tableau](image/tableau.jpg){width=3%} <b>Tableau</b>
 
 
-![PowerBI](image/powerbi.png){width=2%} <b>Power BI</b>
+![PowerBI](image/powerbi.png){width=3%} <b>Power BI</b>
 
-![JMP](image/jmp.jpg){width=2%} <b>JMP Pro</b>
+![JMP](image/jmp.jpg){width=3%} <b>JMP Pro</b>
 
-![hadoop](image/hadoop.png){width=2%} <b>Apache Hadoop, Hive, Hue</b>
+![hadoop](image/hadoop.png){width=3%} <b>Apache Hadoop, Hive, Hue</b>
     </td>
   </tr>
 </table>
 
+### Machine Learning and Statistical Methods
 
+`r fa("check", fill = "steelblue")` <b>Exploratory Data Analysis</b>
 
+`r fa("check", fill = "steelblue")` <b>Feature Engineering and ML Pipeline building</b>
 
+`r fa("check", fill = "steelblue")` <b>Regression and Classification Models</b>
+
+`r fa("check", fill = "steelblue")` <b>Model Performance Evaluation</b>
+
+`r fa("check", fill = "steelblue")` <b>Interactive Dashboard Development</b>
 

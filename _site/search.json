@@ -6,7 +6,7 @@
       "description": "\"A person who never made a mistake never tried anything new\" -Albert Einstein\n",
       "author": [],
       "contents": "\r\n\r\nProfessional\r\nI am enthusiastic professional who believes in continuous learning\r\nand upskilling and that is why I am currently pursuing a Master’s\r\nCourse in Data Science at Singapore Management University, slated to\r\ngraduate in Nov, 2022. I have 10 years of experience in IT industry as\r\nQuality Analyst, Business Analyst and Software Developer in various\r\ndomains during which i discovered my passion for data.In the past year,\r\ni thoroughly enjoyed going back to student life and now I am excited to\r\nstep back into the corporate world again, armed with a slew of new\r\nskills in the field of data analytics, data visualization and data\r\nscience.\r\nPersonal\r\nI live in Singapore with my family. In the late evenings, you will\r\nsee me out for a run around the lovely reservoir near my place and on\r\nweekends, out trekking and exploring different places in the little red\r\ndot. My favorite so far are Bukit Timah Nature Reserve, Southern Ridges\r\nand MacRitchie reservoir. I enjoy trying out different cuisines but i\r\nfall back on Thai, Korean and Indian, owing to my love for spicy food.\r\nBut on a rainy day, hot and flavorful hainanese chicken rice it is.\r\nContact\r\nrakendu.ramesh@gmail.com\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-24T13:04:40+08:00"
+      "last_modified": "2022-08-24T15:25:31+08:00"
     },
     {
       "path": "education.html",
@@ -15,7 +15,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\nMaster of IT in\r\nBusiness - Analytics Track\r\nSingapore Management University (Aug 2021 - Nov 2022) \r\nMain Modules\r\nApplied Machine Learning\r\nData Science for Business\r\nVisual Analytics using Tableau\r\nText Analytics\r\nPython Programming and Data Analysis\r\nApplied Statistical Analysis with R\r\nData Analytics Lab using Jmp Pro 16\r\nData Management\r\nInternet of Things\r\nBachelor\r\nof Technology - Electronics and Communication Engineering\r\nSCMS School of Engg and Tech, Mahatma Gandhi University (Sept 2001\r\n- Jun 2005)\r\nMain Modules\r\nElectronics Engineering\r\nElectromagnetic Waves\r\nDigital Signal Processing\r\nControl Systems\r\nElectrical Engineering\r\nC++\r\nRDBMS\r\nTelevision Engineering\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-24T15:19:17+08:00"
+      "last_modified": "2022-08-24T15:25:16+08:00"
     },
     {
       "path": "experience.html",
@@ -24,7 +24,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\n\r\nData Analyst Intern\r\n\r\n\r\nJan 2022 - Jun 2022\r\n\r\n\r\n DHL, Singapore\r\nGlobal Logistics Company\r\nDeveloped PowerBi Dashboard for HR Team to visualize the\r\nVaccination status of Employees using Python and MS SQL.\r\nAppreciated by Team Lead for the contribution to Resource\r\nManagement Application developed for Finance and Operation Teams, using\r\nASP.net and MS SQL. Successfully solved the security concerns raised\r\nduring Penetration Testing and secured Security Sign off.\r\nEnhancement of PD Digitalization Dashboard to eliminate manual\r\nintervention.\r\nInvolved in the Deployment of Web Chat Analytics Tool and Call\r\nData Extraction from Avaya for Speech Analytics tool.\r\n\r\n\r\nQA Coordinator\r\n\r\n\r\nJul 2018 – Dec 2020\r\n\r\n\r\n Expleo Solutions, Singapore\r\n\r\nIT services and consulting company, deployed to AVIVA\r\nInsurance\r\nReviewed and delivered multiple reports for Financial\r\nConsultants\r\nCollaborated with Business Users, Development Team and Support\r\nTeams to execute project deliverables within stipulated\r\ntimelines.\r\nProposed and implemented process changes to eliminate defects\r\nright from requirement analysis stage.\r\nDemonstrated and convinced the Business to the advantage of\r\nautomating data verification and convinced the Business users to adopt\r\nthe latest technology.\r\n\r\n\r\nQA Team Lead\r\n\r\n\r\nAug 2013 - Jul 2018\r\n\r\n\r\nVervali Systems, Mumbai, India\r\n\r\nIT Services Company for Neogov, USA\r\nManaged a Team of 8 spread across different time zones\r\nEstimated and planned testing activities to align with the\r\nProject plan\r\nDefined and documented strategy to ensure quality\r\nstandards\r\nVerified major overhaul of Application and ensured minimal\r\ndefects in Production\r\nHandled the verification of data migration and gained\r\ncommendation for successful completion of project\r\nIdentified and highlighted risk factors, effectively mitigating\r\nproject delays\r\n\r\n\r\nAssistant Business Analyst\r\n\r\n\r\nJul 2009 - Jul 2010\r\n\r\n\r\n Integro Technologies, Singapore\r\n\r\nIT services and consulting company, deployed to OCBC\r\nHandled Requirement Gathering through Discussions with Business\r\nUsers and Documentation\r\nCollaborated with Business Users and Development Team to identify\r\nand resolve Production issues\r\nConducted User trainings to ensure efficient use of the\r\nsystem\r\nVerified and successfully delivered application that met user\r\nexpectations\r\nCollaborated with Quality and Business Team to ensure timely\r\ndelivery of application\r\n\r\n\r\nTest Engineer\r\n\r\n\r\nNov 2008 - Jul 2009\r\n\r\n\r\n Encora Technologies, Singapore\r\n\r\nIT services and consulting company, deployed to UOB\r\nVerification of transaction logs in XML format on Unix server\r\nDeveloped and executed testcases that helped isolate defects in the\r\napplication\r\nPrepared Defect Status Report to highlight the progress of the\r\nproject to the stakeholders\r\nConducted User trainings to ensure efficient use of the\r\nsystem\r\n\r\n\r\nSoftware Developer\r\n\r\n\r\nJan 2006 - Dec 2007\r\n\r\n\r\n UST Global, India\r\n\r\nIT services and consulting company for Anthem Insurance,\r\nUSA\r\nHandled Requirement Gathering through Discussions with Business\r\nUsers and Documentation\r\nCollaborated with Business Users and Development Team to identify\r\nand resolve Production issues\r\nConducted User trainings to ensure efficient use of the\r\nsystem\r\nVerified and successfully delivered application that met user\r\nexpectations\r\nCollaborated with Quality and Business Team to ensure timely\r\ndelivery of application\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-24T15:19:41+08:00"
+      "last_modified": "2022-08-24T15:25:01+08:00"
     },
     {
       "path": "index.html",
@@ -32,7 +32,7 @@
       "description": "All things Data !\n",
       "author": [],
       "contents": "\r\nABOUT\r\nData Scientist passionate about solving real word business problems\r\nusing data, with focus on understanding the problem, having knowledge of\r\nthe various techniques that can be applied, narrowing down on the most\r\neffective solutions and finally picking the best solution with the\r\nknowledge that the complex solutions need not be the best solution.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-24T13:05:01+08:00"
+      "last_modified": "2022-08-24T15:45:28+08:00"
     },
     {
       "path": "skills.html",
@@ -40,8 +40,8 @@
       "description": "\"Skill is the unified force of experience, intellect and passion in their operation.\" -John Ruskin\n",
       "author": [],
       "date": "`r Sys.Date()`",
-      "contents": "\r\nProgramming Languages and\r\nTools\r\n\r\nPython\r\nSQL\r\nR\r\nASP.NET, C#\r\nAWS S3, EC2\r\n\r\n\r\nTableau\r\nPower BI\r\nJMP\r\nPro\r\nApache\r\nHadoop, Hive, Hue\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-24T15:20:02+08:00"
+      "contents": "\r\nProgramming Languages and\r\nTools\r\n\r\nPython\r\nSQL\r\nR\r\nASP.NET, C#\r\nAWS S3, EC2\r\n\r\n\r\nGit\r\nTableau\r\nPower BI\r\nJMP\r\nPro\r\nApache\r\nHadoop, Hive, Hue\r\n\r\nMachine Learning and\r\nStatistical Methods\r\nExploratory Data Analysis\r\nFeature Engineering and ML Pipeline building\r\nRegression and Classification Models\r\nModel Performance Evaluation\r\nInteractive Dashboard Development\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-24T15:45:11+08:00"
     }
   ],
   "collections": []
