@@ -1,0 +1,44 @@
+---
+title: "Skills"
+description: |
+  "Skill is the unified force of experience, intellect and passion in their operation." -John Ruskin
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+### Programming Languages and Tools
+<table>
+  <tr>
+    <td width = 6>
+`r fa("python", fill = "steelblue")`  <b>Python</b>
+
+`r fa("database", fill = "steelblue")`  <b>SQL</b>
+
+`r fa("r-project", fill = "steelblue")`  <b>R</b>
+
+`r fa("globe", fill = "steelblue")`  <b>ASP.NET, C#</b>
+
+`r fa("cloud", fill = "steelblue")` <b>AWS S3, EC2</b>
+    </td>
+    <td width = 6>
+![Tableau](image/tableau.jpg){width=2%} <b>Tableau</b>
+
+
+![PowerBI](image/powerbi.png){width=2%} <b>Power BI</b>
+
+![JMP](image/jmp.jpg){width=2%} <b>JMP Pro</b>
+
+![hadoop](image/hadoop.png){width=2%} <b>Apache Hadoop, Hive, Hue</b>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
