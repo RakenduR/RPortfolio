@@ -1,5 +1,6 @@
 ---
 title: "Skills"
+theme: theme.css
 description: |
   "Skill is the unified force of experience, intellect and passion in their operation." -John Ruskin
 

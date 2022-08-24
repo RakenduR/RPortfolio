@@ -3,6 +3,8 @@ title: "All about me"
 theme: theme.css
 description: |
   "A person who never made a mistake never tried anything new" -Albert Einstein
+  
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
