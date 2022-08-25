@@ -5,6 +5,7 @@ description: |
   Portfolio
 output_dir: "_site"
 navbar:
+  left:
     - text: "Home"
       href: index.html
   right:
